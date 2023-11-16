@@ -3,10 +3,11 @@
 .choice-container{
     display: flex;
     border: 0.1rem solid black;
-    margin-bottom: 0.5rem;
-    font-size: 1.6rem;
-    width: 100%;
+    margin-bottom: 2.5rem;
+    font-size: 1.8rem;
+    max-width: 70rem;
     background-color: white;
+    padding: 0;
 }
 
 .choice-container:hover{
