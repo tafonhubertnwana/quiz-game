@@ -11,37 +11,46 @@ let availableQuestions = [];
 
 let Questions = [
  {
-    question: "Which country has the largest population?",
-    choice1: "India",
-    choice2: "USA",
-    choice3: "Russia",
-    choice4: "Nigeria",
-    answer: 1
+    question: "Which of the following can read and render HTML web pages",
+    choice1: "Server",
+    choice2: "head Tak",
+    choice3: "web browser",
+    choice4: "empty",
+    answer: 3
  },
  {
-   question: "Which of these countries is NOT in Asia?",
-   choice1: "France",
-   choice2: "Israel",
-   choice3: "Thailand",
-   choice4: "Taiwan",
+   question: "Among the following operators identify the one which is used to allocate memory to array variables in JavaScript",
+   choice1: "new",
+   choice2: "new malloc",
+   choice3: "alloc",
+   choice4: "malloc",
    answer: 1
 },
 {
-   question: "On which continent is the Sahara Desert located",
-   choice1: "Asia",
-   choice2: "South America",
-   choice3: "Africa",
-   choice4: "Europe",
+   question: "The latest HTML standard is?",
+   choice1: "HTML 4.0",
+   choice2: "HTML 5.0",
+   choice3: "XML",
+   choice4: "SGML",
+   answer: 2
+},
+{
+   question: "What are variables used in JavaScript programs",
+   choice1: "Varying randomly",
+   choice2: "Storing numbers, dates, and other values",
+   choice3: "Used as header files",
+   choice4: "None of the above",
+   answer: 2
+},
+{
+   question: "Identify the incorrect HTML tag among the following?",
+   choice1: "<input>",
+   choice2: "<select>",
+   choice3: "<list>",
+   choice4: "<textarea>",
    answer: 3
-},
-{
-   question: "Which country has the largest population?",
-   choice1: "India",
-   choice2: "USA",
-   choice3: "Russia",
-   choice4: "Nigeria",
-   answer: 1
-},
+}
+
 
 
 
