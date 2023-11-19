@@ -5,11 +5,11 @@ const choices = array.from(document.getElementsByClassName("choice-text"));
 let currentQuestion = {};
 let acceptingAnswers = true;
 let score = 0;
-letguestionCounter = 0;
+let questionCounter = 0;
 let availableQuestions = [];
 
 
-let Questions = [
+let questions = [
  {
     question: "Which of the following can read and render HTML web pages",
     choice1: "Server",
@@ -57,3 +57,15 @@ let Questions = [
 
 
 ]
+
+const CORRECT_BONUS = 10;
+const MAX_QUESTIONS = 5;
+
+startgame = () => {
+   questionCounter = 0
+   score =0
+   availableQuestions = [...questions]
+   console.log(availableQuestions)
+}
+
+startgame ()
