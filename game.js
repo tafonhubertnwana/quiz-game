@@ -11,11 +11,40 @@ let availableQuestions = [];
 
 let Questions = [
  {
-    question: "What is the full meaning of HTML",
-    choice1: "Hyper Text Mark-up Language",
-    choice2: "Hyper Text Make-up Language",
-    choice3: "Hyper Transfer Mark-up Language",
-    choice4: "Hyper Transfer Make-up Language",
+    question: "Which country has the largest population?",
+    choice1: "India",
+    choice2: "USA",
+    choice3: "Russia",
+    choice4: "Nigeria",
     answer: 1
- }
+ },
+ {
+   question: "Which of these countries is NOT in Asia?",
+   choice1: "France",
+   choice2: "Israel",
+   choice3: "Thailand",
+   choice4: "Taiwan",
+   answer: 1
+},
+{
+   question: "On which continent is the Sahara Desert located",
+   choice1: "Asia",
+   choice2: "South America",
+   choice3: "Africa",
+   choice4: "Europe",
+   answer: 3
+},
+{
+   question: "Which country has the largest population?",
+   choice1: "India",
+   choice2: "USA",
+   choice3: "Russia",
+   choice4: "Nigeria",
+   answer: 1
+},
+
+
+
+
+
 ]
