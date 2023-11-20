@@ -51,6 +51,7 @@ h3{
     justify-content: center;
     margin: 0 auto;
     background-color: yellow;
+    padding: 2rem;
 }
 
 .container > *{
