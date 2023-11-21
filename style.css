@@ -19,7 +19,7 @@ h4{
 }
 
 h1{
-    font-size: 5.4rem;
+    font-size: 3.5rem;
     color: black;
     margin-bottom: 5rem;
 }
@@ -30,9 +30,9 @@ h1 > span {
 }
 
 h2{
-    font-size: 4.2rem;
+    font-size: 3.5rem;
     font-weight: 700;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
 }
 
 h3{
@@ -44,19 +44,15 @@ h3{
 
 .container {
     width:100vw;
-    height: 100vh;
     display: flex;
     align-items: center;
-    max-width: 80rem;
+    max-width: 70rem;
     justify-content: center;
     margin: 0 auto;
     background-color: yellow;
     padding: 2rem;
 }
 
-.container > *{
-    width: 100%;
-}
 
 .flex_column {
     display: flex;
