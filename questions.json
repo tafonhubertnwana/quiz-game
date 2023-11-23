@@ -38,6 +38,46 @@
      "choice3": "<list>",
      "choice4": "<textarea>",
      "answer": 3
+  },
+  {
+     "question": "The stylesheet file will not be loaded by the browser if you omit ?",
+     "choice1": "rel",
+     "choice2": "style",
+     "choice3": "body",
+     "choice4": "html",
+     "answer": 1
+  },
+  {
+     "question": "Amomg the following is a Language of javaScript?",
+     "choice1": "text/javaScript",
+     "choice2": "text/ECMAScript",
+     "choice3": "text/VBScript",
+     "choice4": "javaScript VBSscript",
+     "answer": 1
+  },
+  {
+     "question": "What does CSS stand for?",
+     "choice1": "Cascading Style Sheets",
+     "choice2": "Colorful Style Sheets",
+     "choice3": "Computer Style Sheets",
+     "choice4": "Creative Style Sheets",
+     "answer": 1
+  },
+  {
+     "question": "How can we write comment along with CSS code?",
+     "choice1": "//a comment//",
+     "choice2": "<'a comment'>",
+     "choice3": "/*a comment*/",
+     "choice4": "/a comment/",
+     "answer": 3
+  },
+  {
+     "question": "Which of the following is the correct way to apply Styles?",
+     "choice1": "inside an HTML element",
+     "choice2": "inside the section of an HTML page",
+     "choice3": "in an external CSS file",
+     "choice4": "All of the above",
+     "answer": 4
   }
 
 ]
