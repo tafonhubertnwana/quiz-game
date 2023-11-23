@@ -46,10 +46,13 @@ h3{
     width:100vw;
     display: flex;
     align-items: center;
-    max-width: 70rem;
+    
     justify-content: center;
-    margin: 0 auto;
-    background-color: yellow;
+    background-image: url("./images/gamePic.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
     padding: 2rem;
 }
 
