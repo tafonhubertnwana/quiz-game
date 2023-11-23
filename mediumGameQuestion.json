@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which of the following HTML attribute is used to define inline styles?",
+    "choice1": "style",
+    "choice2": "type",
+    "choice3": "class",
+    "choice4": "none of the above",
+    "answer": 1
+  },
+  {
+    "question": "BORDER attributes specifies the?",
+    "choice1": "thickness of the border around the table",
+    "choice2": "space between the borders",
+    "choice3": "space between two cells",
+    "choice4": "width of the table",
+    "answer": 1
+  },
+  {
+    "question": "Which control is used when the input from the user may extend to several line?",
+    "choice1": "multiline text area",
+    "choice2": "check box",
+    "choice3": "password control",
+    "choice4": "menu control",
+    "answer": 1
+  },
+  {
+    "question": "The item present within the angled brackets in an HTML tag is?",
+    "choice1": "data",
+    "choice2": "tags",
+    "choice3": "identifier",
+    "choice4": "text",
+    "answer": 1
+  },
+  {
+    "question": "Ordered lists are?",
+    "choice1": "Not similar to the numbered lists created MS Word",
+    "choice2": "Similar to the numbered lists created MS Word",
+    "choice3": "Not similar to the bullets created in MS Word",
+    "choice4": "Similar to the bullets created in MS Word",
+    "answer": 3
+  }
+]
