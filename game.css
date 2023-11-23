@@ -80,3 +80,9 @@
         transform: rotate(360deg);
     }
 }
+
+#end{
+    padding-top: 4%;
+    padding-bottom: 5%;
+    width: 70rem;
+}

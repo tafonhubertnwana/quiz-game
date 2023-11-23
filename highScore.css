@@ -10,5 +10,11 @@
 }
 
 .high-score:hover{
-  transform : scale(1.2);
+  transform : scale(1.0);
+}
+
+#highScore{
+  padding-top: 8%;
+  padding-bottom: 8%;
+  width: 70rem;
 }

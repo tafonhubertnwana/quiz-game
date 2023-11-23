@@ -1,0 +1,15 @@
+#help{
+  padding-top: 8%;
+  padding-bottom: 20%;
+  width: 70rem;
+  
+}
+
+#help h1{
+  text-align: center;
+}
+
+.help-body{
+  font-size: 18px;
+
+}
