@@ -1,0 +1,43 @@
+[
+  {
+     "question": "Which tag is used to display text in title bar of a web document?",
+     "choice1": "Body tag",
+     "choice2": "Meta tag",
+     "choice3": "Title tag",
+     "choice4": "Comment tag",
+     "answer": 3
+  },
+  {
+     "question": "The attribute is used to identify the values of variables.",
+     "choice1": "text",
+     "choice2": "http-equiv",
+     "choice3": "content",
+     "choice4": "name",
+     "answer": 3
+  },
+  {
+     "question": "Which tag is used to identify the keywords describing the site?",
+     "choice1": "Comment tag",
+     "choice2": "Title tag",
+     "choice3": "Meta tag",
+     "choice4": "Anchor tag",
+     "answer": 3
+  },
+  {
+     "question": "The language that instructs the browser on how to display the hypertext, and adds pictures to the document is?",
+     "choice1": "C",
+     "choice2": "COBOL",
+     "choice3": "HTML",
+     "choice4": "BASIC",
+     "answer": 3
+  },
+  {
+     "question": "Which are used with a tag to modify its function?",
+     "choice1": "Files",
+     "choice2": "Functions",
+     "choice3": "Documents",
+     "choice4": "Attributes",
+     "answer": 4
+  }
+
+]

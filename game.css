@@ -2,10 +2,9 @@
     display: flex;
     border: 0.1rem solid black;
     margin-bottom: 2.5rem;
-    font-size: 1.8rem;
     max-width: 70rem;
     background-color: white;
-    padding: 0;
+    justify-content: center;
 }
 
 .choice-container:hover{

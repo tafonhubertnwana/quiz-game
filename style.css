@@ -27,12 +27,12 @@ h1{
 }
 
 h1 > span {
-    font-size: 2.4rem;
+    font-size: 3.0rem;
     font-weight: 500;
 }
 
 h2{
-    font-size: 3.5rem;
+    font-size: 2.0rem;
     font-weight: 700;
     margin-bottom: 2rem;
 }
@@ -45,7 +45,6 @@ h3{
 /*Utilities */
 
 .container {
-    
     display: flex;
     align-items: center;
     
