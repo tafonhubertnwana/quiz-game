@@ -11,5 +11,36 @@
 
 .help-body{
   font-size: 18px;
-
+  font_weight: 800;
 }
+
+.btn-help{
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    text-align: center;
+    border: 0.1rem solid #56a5eb;
+    margin-left: 26rem;
+    margin-top: 4rem;
+    background-color: white;
+  
+  }
+
+  .btn-help a{
+    text-decoration: none;
+    color: #56a5eb;
+  }
+  
+  .btn-help:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+    background-color: gray;
+  }
+  
+  .btn-help[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+  }
