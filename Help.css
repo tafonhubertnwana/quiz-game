@@ -19,7 +19,7 @@
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
+    border: 0.1rem solid #302a18;
     margin-left: 26rem;
     margin-top: 4rem;
     background-color: white;
@@ -28,7 +28,7 @@
 
   .btn-help a{
     text-decoration: none;
-    color: #56a5eb;
+    color: #302a18;
   }
   
   .btn-help:hover {
@@ -43,4 +43,28 @@
     cursor: not-allowed;
     box-shadow: none;
     transform: none;
+  }
+
+  @media only screen and (max-width: 600px){
+    .help-body{
+      font-size: 14px;
+      font_weight: 900;
+      justify-content: justify;
+    }
+    
+    #help{
+      width: 35rem; 
+      padding-top: 8%;
+      padding-bottom: 2%;
+    }
+
+    .btn-help{
+      width: 10rem;
+      margin-left: 10rem;
+      margin-top: 4rem;
+      font-size: 14px;
+      margin-top: 2rem;
+    }
+    
+    
   }
