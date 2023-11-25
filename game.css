@@ -61,7 +61,7 @@
     width: 0%
 }
 
-/*loader*/
+/*loader
 #loader{
     border: 1.6rem solid white;
     border-radius:50%;
@@ -69,7 +69,7 @@
     width: 12rem;
     height: 12rem; 
     animation: spin 2s  linear infinite;
-}
+} */
 
 @keyframes spin{
     0% {
